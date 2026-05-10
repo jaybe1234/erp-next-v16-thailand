@@ -1,0 +1,3 @@
+[submodule "erp_next_thailand_v15"]
+	path = erp_next_thailand_v15
+	url = git@github.com:ecosoft-frappe/erpnext_thailand.git
